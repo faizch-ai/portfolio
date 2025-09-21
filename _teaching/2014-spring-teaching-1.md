@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant – Pattern Recognition and Machine Learning"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/2023-pattern-recognition
+venue: "Tampere University, Faculty of Computing and Electrical Engineering"
+date: 2023-09-01
+location: "Tampere, Finland"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+**Graduate course (Fall 2023)**  
 
-Heading 1
-======
+Worked with **Prof. Dr. Joni-Kristian Kämäräinen** on *Pattern Recognition and Machine Learning* for first-semester Master’s students.  
 
-Heading 2
-======
-
-Heading 3
-======
+**Responsibilities:**  
+- Led weekly sessions on neural networks, decision trees, Bayesian learning, and reinforcement learning.  
+- Evaluated and graded assignments.  
+- Provided feedback and guided students through complex ML concepts.

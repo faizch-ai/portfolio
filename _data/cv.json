@@ -1,152 +1,216 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Faiz Muhammad Chaudhry",
+    "email": "faizmuhammadchaudhry@gmail.com",
+    "phone": "+358449511813",
+    "website": "https://github.com/FaizAils",
+    "summary": "Machine Learning Engineer skilled in deep learning, computer vision, image processing, LMMs, model deployment, and synthetic data generation. Experienced with Python, PyTorch, Docker, HPC/SLURM, cloud (AWS/GCP), and large-scale data processing. First-author peer-reviewed paper (Deep-BrownConrady) in IEEE-TASE. Expertise spans ADAS scene understanding, LiDAR, sensor fusion, 3D simulation, and Git-based workflows.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Tampere",
+      "countryCode": "FI",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "faizchaudhry",
+        "url": "http://www.linkedin.com/in/faizchaudhry"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "FaizAils",
+        "url": "https://github.com/FaizAils"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "company": "AILiveSim Ltd",
+      "position": "Machine Learning Engineer",
+      "location": "Finland",
+      "startDate": "2022-10",
+      "endDate": "",
+      "summary": "Building ML systems for simulation-driven computer vision and retrieval; production deployments and synthetic data pipelines.",
+      "highlights": [
+        "Built an asset description & retrieval pipeline using Unreal Engine metadata; integrated LongCLIP for multimodal encoding; stored embeddings in a Chroma vector database for fast similarity search.",
+        "Generated realistic synthetic datasets by parameterizing 3D environments; developed an object detection model for maritime environments using synthetic data.",
+        "Engineered a decomposition technique within ResNet for projection matrices & orthogonal components tailored for PCA analysis.",
+        "Single-image camera calibration: predicted H-FOV, Brown–Conrady distortion, and computed intrinsic K-matrix.",
+        "Generated LiDAR point clouds and performed voxelization to enhance simulated scene understanding; leveraged LLaVA/LLaMA to automate scene descriptions.",
+        "Dockerized inference models; deployed models as AWS Lambda functions for scalable serverless execution; reduced operational overhead.",
+        "Industrial Master’s Thesis: “Prediction of Camera Calibration and Distortion Parameters Using Deep Learning and Synthetic Data.”"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "company": "Tampere University",
+      "position": "Teaching Assistant — Pattern Recognition and Machine Learning",
+      "location": "Finland",
+      "startDate": "2023-09",
+      "endDate": "2023-11",
+      "summary": "TA for Prof. Joni-Kristian Kämäräinen; weekly sessions, grading, and feedback for ML topics.",
+      "highlights": [
+        "Supported assignments on neural networks, decision trees, Bayesian learning, and reinforcement learning; evaluated and graded student work."
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "company": "Amplon Oy",
+      "position": "Machine Learning Researcher",
+      "location": "Finland",
+      "startDate": "2023-02",
+      "endDate": "2023-10",
+      "summary": "NLP for strategic planning software; microservices & cloud deployment.",
+      "highlights": [
+        "Built NLP algorithms to refine business objectives in Hoshin Kanri software; ensured measurability & alignment with strategy.",
+        "Developed a Flask REST API on Google Cloud Run to suggest improvements for objectives; created an AI microservice to refine KPIs."
+      ]
+    },
+    {
+      "company": "Ladar Ltd.",
+      "position": "Machine Learning Engineer",
+      "location": "United Kingdom",
+      "startDate": "2021-11",
+      "endDate": "2022-08",
+      "summary": "Sensor-fusion computer vision; motion detection; multi-modal training data pipelines.",
+      "highlights": [
+        "Explored BlenderProc for RGB/Depth segmentation; built motion-triggered capture for live camera feeds.",
+        "Modified YOLOv5 for 5 channels (RGB + LiDAR depth + IR), improving precision/recall; built Dash interface for result visualization.",
+        "Set up visual & thermal data collection from IP cameras deployed in Oslo, Norway."
+      ]
+    },
+    {
+      "company": "Offshore Navigation Ltd.",
+      "position": "Project Analyst",
+      "location": "United Kingdom",
+      "startDate": "2020-10",
+      "endDate": "2021-11",
+      "summary": "Optimization & API integration for voyage planning; ML collaboration on weather accuracy.",
+      "highlights": [
+        "Worked on VoyOpt sail-planning optimization; integrated APIs for global ship positional information.",
+        "Collaborated with ML team to improve weather data accuracy strategies."
+      ]
+    },
+    {
+      "company": "Offshore Navigation Ltd.",
+      "position": "Data Science Intern",
+      "location": "United Kingdom",
+      "startDate": "2020-05",
+      "endDate": "2020-08",
+      "summary": "Geospatial data wrangling & analysis for maritime applications.",
+      "highlights": [
+        "Processed large multidimensional datasets using Xarray & NetCDF4; improved processing speed & accuracy.",
+        "Generated vessel position heatmaps from Marine Traffic data for route planning insights."
+      ]
+    },
+    {
+      "company": "National University of Computer & Emerging Sciences (FAST-NUCES)",
+      "position": "Teaching Assistant — Artificial Intelligence",
+      "location": "Pakistan",
+      "startDate": "2020-01",
+      "endDate": "2020-07",
+      "summary": "TA for AI course; assignments, quizzes, and student support.",
+      "highlights": [
+        "Designed assignments, graded quizzes, and conducted sessions to resolve course-related queries."
+      ]
     }
   ],
-  "skills": [],
+  "education": [
+    {
+      "institution": "Tampere University",
+      "area": "Master in Computing Science (Specialization: Data Science)",
+      "studyType": "M.Sc.",
+      "startDate": "2022-08",
+      "endDate": "2024-07",
+      "gpa": "4.77/5.00",
+      "courses": [
+        "Statistical Methods for Text Data Analysis",
+        "Pattern Recognition and Machine Learning",
+        "Recommender Systems",
+        "Data-Driven Programming",
+        "Image and Video Processing",
+        "Statistical Inference",
+        "Bayesian Analysis"
+      ],
+      "thesis": "Deep-BrownConrady: Prediction of Camera Calibration and Distortion Parameters Using Deep Learning and Synthetic Data.",
+      "notes": "100% scholarship for full duration."
+    },
+    {
+      "institution": "FAST National University of Computer & Emerging Sciences (FAST-NUCES)",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2016-08",
+      "endDate": "2020-06",
+      "gpa": "3.52/4.00",
+      "courses": [
+        "Data Science",
+        "Computer Vision",
+        "Deep Learning",
+        "Digital Image Processing",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Information Retrieval",
+        "Natural Language Processing",
+        "Data Structures",
+        "Algorithms"
+      ],
+      "thesis": "Skin Burn Segmentation using Deep Learning."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["Python", "C++", "R"]
+    },
+    {
+      "name": "Frameworks & Libraries",
+      "keywords": ["PyTorch", "Transformers", "Hugging Face", "NumPy", "Pandas", "Streamlit"]
+    },
+    {
+      "name": "ML/AI",
+      "keywords": ["Computer Vision", "Deep Learning", "NLP", "Object Detection", "Segmentation", "LMMs"]
+    },
+    {
+      "name": "MLOps & Infra",
+      "keywords": ["Docker", "AWS", "GCP", "SLURM", "Git", "DVC", "MLflow"]
+    },
+    {
+      "name": "Simulation & Sensors",
+      "keywords": ["Unreal Engine (metadata integration)", "LiDAR", "Sensor Fusion", "3D Simulation", "Voxelization"]
+    },
+    {
+      "name": "Data",
+      "keywords": ["Large-scale data processing", "Geospatial (Xarray, NetCDF4)"]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Deep-BrownConrady: Prediction of Camera Calibration and Distortion Parameters Using Deep Learning and Synthetic Data",
+      "publisher": "IEEE Transactions on Automation Science and Engineering",
+      "releaseDate": "2025",
+      "website": "https://ieeexplore.ieee.org/document/11079705",
+      "summary": "First-author peer-reviewed article presenting a deep learning approach for single-image camera calibration and distortion parameter estimation; includes results on synthetic data and production use. DOI: 10.1109/TASE.2025.3588584."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Pattern Recognition and Machine Learning",
+      "institution": "Tampere University",
+      "date": "2023-09",
+      "role": "Teaching Assistant (Graduate-level course)",
+      "description": "Weekly sessions, assignment assistance, and grading across neural nets, decision trees, Bayesian learning, and RL."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Artificial Intelligence",
+      "institution": "FAST-NUCES",
+      "date": "2020-01",
+      "role": "Teaching Assistant (Undergraduate course)",
+      "description": "Designed assignments, graded quizzes, and supported student learning in AI fundamentals."
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }

@@ -1,14 +1,20 @@
 ---
-title: "Paper Title Number 1"
+title: "DeepBrownConrady: Prediction of Camera Calibration and Distortion Parameters Using Deep Learning and Synthetic Data"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2025-01-15-dbc-paper
+excerpt: "We propose DeepBrownConrady (DBC), a deep learning approach that predicts camera calibration and distortion parameters directly from single images using synthetic data. <br/><img src='/images/DBC.gif'>"
+date: 2025-01-15
+venue: 'IEEE Transactions on Automation Science and Engineering (T-ASE)'
+paperurl: 'https://ieeexplore.ieee.org/document/11079705'
+citation: 'Faiz Muhammad Chaudhry, Jarno Ralli, Jerome Leudet, Fahad Sohrab, Farhad Pakdaman, and Pierre Corbani. (2025). "DeepBrownConrady: Prediction of Camera Calibration and Distortion Parameters Using Deep Learning and Synthetic Data." <i>IEEE Transactions on Automation Science and Engineering (T-ASE)</i>.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+This paper introduces **DeepBrownConrady (DBC)**, a novel deep learning model that predicts horizontal field of view (H-FOV), principal points, and Brown-Conrady distortion parameters from single input images.  
+
+Key contributions include:  
+- A synthetic data pipeline that generates large-scale training datasets for calibration.  
+- Robust prediction of intrinsic camera parameters without requiring calibration targets.  
+- Validation on both synthetic and real datasets, demonstrating strong generalization.  
+
+The paper highlights the potential of synthetic data in enabling scalable camera calibration for robotics, AR/VR, and autonomous systems.

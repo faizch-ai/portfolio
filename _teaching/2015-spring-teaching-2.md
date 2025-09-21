@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant – Artificial Intelligence"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2020-artificial-intelligence
+venue: "FAST-NUCES, Department of Computer Science"
+date: 2020-01-01
+location: "Lahore, Pakistan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+**Undergraduate course (Spring 2020)**  
 
-Heading 1
-======
+Worked with **Asst. Prof. Dr. Mirza Mubasher Baig** on *Artificial Intelligence* for BSCS 6th semester students.  
 
-Heading 2
-======
-
-Heading 3
-======
+**Responsibilities:**  
+- Designed assignments and graded quizzes.  
+- Conducted TA sessions to clarify course topics.  
+- Assisted students in applying AI concepts to real problems.
