@@ -3,7 +3,7 @@ title: "DeepBrownConrady: Prediction of Camera Calibration and Distortion Parame
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-15-dbc-paper
-excerpt: "We propose DeepBrownConrady (DBC), a deep learning approach that predicts camera calibration and distortion parameters directly from single images using synthetic data. <br/><img src='/images/DBC.gif'>"
+excerpt: "We propose DeepBrownConrady (DBC), a deep learning approach that predicts camera calibration and distortion parameters directly from single images using synthetic data. <br/><img src='./images/DBC.gif'>"
 date: 2025-01-15
 venue: 'IEEE Transactions on Automation Science and Engineering (T-ASE)'
 paperurl: 'https://ieeexplore.ieee.org/document/11079705'
