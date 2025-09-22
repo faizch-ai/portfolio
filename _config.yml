@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Faiz"
 description              : &description "I am Faiz. :D"
 url: "https://faizch-ai.github.io"   # your GitHub username site root
-baseurl: "/portfolio"               # MUST match the repo name, with a leading slash
+baseurl: ""               # MUST match the repo name, with a leading slash
 repository: "FaizAils/portfolio"    # owner/repo
 
 
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/faizchaudhry"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
