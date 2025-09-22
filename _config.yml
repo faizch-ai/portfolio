@@ -13,8 +13,10 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Faiz"
 description              : &description "I am Faiz. :D"
-url: "https://faizch-ai.github.io"   # your GitHub username site root
-baseurl: "/portfolio"               # MUST match the repo name, with a leading slash
+# url: "https://faizch-ai.github.io"   # your GitHub username site root
+# baseurl: "/portfolio"               # MUST match the repo name, with a leading slash
+url: "https://www.faizchaudhry.com"  # or apex, pick one
+baseurl: ""
 repository: "FaizAils/portfolio"    # owner/repo
 
 
