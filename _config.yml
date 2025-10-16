@@ -25,7 +25,7 @@ repository: "FaizAils/portfolio"    # owner/repo
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./faiz.jpeg"
+  avatar           : "./faiz2.jpeg"
   name             : "Faiz Chaudhry"
   pronouns         : # URL
   bio              : # BIO
@@ -37,7 +37,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : https://scholar.google.com/citations?user=24g6ojEAAAAJ&hl=en
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0008-8921-924X"
