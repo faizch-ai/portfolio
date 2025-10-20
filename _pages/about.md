@@ -17,8 +17,6 @@ Interests now: multimodal alignment (long-context text–vision), retrieval-augm
 
 -> Image-text retrieval systems: embedding stores, dedup/cluster logic, metadata-conditioned reranking, user-facing diagnostics.
 
--> Production discipline: experiment tracking, artifact/version management, CI for eval, deployments with MLOps, AWS, Docker.
-
 -> Large-scale experiments on LUMI (AMD GPUs): dataset curation, distributed training, reproducible pipelines.
 
 ## Honors & leadership
