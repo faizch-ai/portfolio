@@ -21,8 +21,8 @@ Interests now: multimodal alignment (long-context text–vision), retrieval-augm
 
 ## Honors & leadership
 
--> Tampere University Master’s Scholarship (100% tuition); GPA 4.77/5.00.
+-> Tampere University Master’s Scholarship (100% tuition, worth €24,000); GPA 4.77/5.00.
 
--> Stipendium Hungaricum (fully funded, ELTE)—awarded; offer declined.
+-> Stipendium Hungaricum (fully funded, worth 1,000,000 HUF, ELTE)—awarded; offer declined.
 
 -> Co-founder, Technojawan (NGO): delivered digital-skills trainings to under-served communities.
